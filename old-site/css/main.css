@@ -129,3 +129,10 @@ h5  {
 .footer, .push {
   clear: both;
 }
+
+@media (max-width: 600px) {
+  .circles {
+    width: 100%;
+    float: none;
+  }
+}
